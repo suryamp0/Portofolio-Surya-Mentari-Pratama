@@ -634,12 +634,12 @@ section {
 }
 
 .port-content h3 {
-  font-size: 5.0rem;
+  font-size: 3.0rem;
   font-weight: 500;
 }
 
 .port-content p {
-  font-size: 5.0rem;
+  font-size: 3.0rem;
   margin: 0.5rem 0 15rem 0;
 }
 
@@ -656,7 +656,7 @@ section {
 }
 
 .port-content a i {
-  font-size: 5.0rem;
+  font-size: 3.0rem;
   color: var(--bg-color);
 }
 
