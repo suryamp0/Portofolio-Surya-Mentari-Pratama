@@ -337,7 +337,6 @@ section {
 }
 
 /* About section csss  */
-
 .about {
   display: flex;
   justify-content: center;
@@ -419,6 +418,14 @@ section {
   color: var(--hover-color);
   font-size: 1rem;
   font-weight: 600;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-gap: 2rem;
+  background: rgba(18, 247, 255, 0.3);
 }
 
 /* Skills section css */
