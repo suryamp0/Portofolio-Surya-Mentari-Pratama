@@ -556,7 +556,7 @@ section {
 
 /*  dokumntation css */
 .fillter-buttons {
-  margin: 2rem;
+  margin: 1rem;
   text-align: center;
 }
 
@@ -566,7 +566,7 @@ section {
   border: none;
   cursor: pointer;
   font-size: 0.8rem;
-  font-weight: 500;
+  font-weight: 100;
   letter-spacing: 0.4px;
   color: var(--text-color);
 }
