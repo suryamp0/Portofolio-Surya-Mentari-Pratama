@@ -565,7 +565,7 @@ section {
   outline: none;
   border: none;
   cursor: pointer;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   font-weight: 500;
   letter-spacing: 0.4px;
   color: var(--text-color);
@@ -578,7 +578,7 @@ section {
 .portofolio-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
-  gap: 2rem;
+  gap: 5rem;
 }
 
 .port-box {
