@@ -468,16 +468,16 @@ section {
   border-radius: 10px;
 }
 
-.service-btn {
+.Hard Skills-btn {
   width: auto;
   justify-content: center;
 }
 
-.service-box:hover {
+.Hard Skills-box:hover {
   transform: translateY(-0.7rem);
 }
 
-.service-icon {
+.Hard Skills-icon {
   border: 2px solid var(--hover-color);
   padding: 2rem;
   background: var(--bg-color);
@@ -491,12 +491,12 @@ section {
   outline: 3px solid var(--bg-color);
 }
 
-.service-box h3 {
+.Hard Skills-box h3 {
   margin: 1.5rem 0;
   font-size: 1.5rem;
 }
 
-.service-box p {
+.Hard Skills-box p {
   margin: 0.5rem 0 1.5rem 0;
   font-weight: 300;
   letter-spacing: 1px;
@@ -823,33 +823,6 @@ footer a i {
   }
   85% {
     border-radius: 6% 31% 66% 34% / 21% 30% 70% 79%;
-  }
-}
-
-@keyframes Canva {
-  0% {
-    width: 0;
-  }
-  100% {
-    width: 85%;
-  }
-}
-
-@keyframes HTML {
-  0% {
-    width: 0;
-  }
-  100% {
-    width: 70%;
-  }
-}
-
-@keyframes Capcut {
-  0% {
-    width: 0;
-  }
-  100% {
-    width: 45%;
   }
 }
 
