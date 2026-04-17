@@ -421,7 +421,7 @@ section {
   font-weight: 600;
 }
 
-/* services section css */
+/* Hard Skills section css */
 .main-text {
   width: 100%;
   text-align: center;
@@ -442,7 +442,7 @@ section {
   text-transform: uppercase;
 }
 
-.section-service {
+.section-Hard Skills {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -450,7 +450,7 @@ section {
   grid-gap: 2rem;
 }
 
-.section-service .service-box {
+.section-Hard Skills .Hard Skills-box {
   flex: 1 1 18rem;
   padding: 2rem 1rem 2rem;
   text-align: center;
@@ -642,7 +642,7 @@ section {
   border: none;
   cursor: pointer;
   font-size: 0.85rem;
-  font-weight: 600;
+  font-weight: 400;
   letter-spacing: 0.4px;
   color: var(--text-color);
 }
@@ -711,7 +711,7 @@ section {
 
 .port-content h3 {
   font-size: 1.5rem;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .port-content p {
