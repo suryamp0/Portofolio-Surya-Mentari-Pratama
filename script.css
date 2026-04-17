@@ -428,6 +428,14 @@ about {
   background: var(--secon-bg-color);
 }
 
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-gap: 2rem;
+  background: rgba(18, 247, 255, 0.3);
+}
+
 /* Skills section css */
 .Skills {
   background: var(--secon-bg-color);
@@ -554,7 +562,7 @@ about {
   animation: Capcut 4s ease forwards;
 }
 
-/*  section css */
+/* Dokumentation section css */
 .fillter-buttons {
   margin: 2rem;
   text-align: center;
