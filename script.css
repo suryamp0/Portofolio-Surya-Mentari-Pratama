@@ -337,7 +337,6 @@ section {
 }
 
 /* About section csss  */
-
 .about {
   display: flex;
   justify-content: center;
@@ -421,87 +420,12 @@ section {
   font-weight: 600;
 }
 
-/* services section css */
-.main-text {
-  width: 100%;
-  text-align: center;
-  margin-bottom: 2rem;
-  color: var(--hover-color);
-}
-
-.main-text h2 {
-  font-weight: 700;
-  font-size: var(--big-font);
-}
-
-.main-text span {
-  color: #fdfdfd;
-  font-size: 0.8rem;
-  font-weight: 200;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-}
-
-.section-service {
+about {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
   grid-gap: 2rem;
-}
-
-.section-service .service-box {
-  flex: 1 1 18rem;
-  padding: 2rem 1rem 2rem;
-  text-align: center;
   background: var(--secon-bg-color);
-  transition: transform 0.4s;
-  border-radius: 10px;
-}
-
-.section-btn {
-  flex: 1 1 18rem;
-  padding: 2rem 1rem 2rem;
-  text-align: center;
-  background: var(--hover-color);
-  transition: transform 0.4s;
-  border-radius: 10px;
-}
-
-.service-btn {
-  width: auto;
-  justify-content: center;
-}
-
-.service-box:hover {
-  transform: translateY(-0.7rem);
-}
-
-.service-icon {
-  border: 2px solid var(--hover-color);
-  padding: 2rem;
-  background: var(--bg-color);
-  display: flex;
-  align-items: center;
-  font-size: 3rem;
-  border-radius: 50%;
-  position: relative;
-  color: var(--hover-color);
-  box-shadow: var(--neon-box-shadow);
-  outline: 3px solid var(--bg-color);
-}
-
-.service-box h3 {
-  margin: 1.5rem 0;
-  font-size: 1.5rem;
-}
-
-.service-box p {
-  margin: 0.5rem 0 1.5rem 0;
-  font-weight: 300;
-  letter-spacing: 1px;
-  color: #bdbdbd;
-  line-height: 1.6;
 }
 
 /* Skills section css */
@@ -573,12 +497,12 @@ section {
   animation: Canva-Photoshop-Pixellab 2s ease forwards;
 }
 
-.Skills-bar .bar .Html-Css-javaScript {
+.Skills-bar .bar .Instalasi komputer-Konfigurasi jaringan {
   width: 20%;
   animation: Html-Css-javaScript 3s ease forwards;
 }
 
-.Skills-bar .bar .Capcut {
+.Skills-bar .bar .Capcut-Alight Motion-VN {
   width: 25%;
   animation: Capcut 4s ease forwards;
 }
@@ -593,7 +517,7 @@ section {
   }
 }
 
-@keyframes Html-Css-javaScript {
+@keyframes Instalasi komputer-Konfigurasi jaringan {
   from {
     width: 0%;
   }
@@ -602,7 +526,7 @@ section {
   }
 }
 
-@keyframes Capcut {
+@keyframes Capcut-AlightMotion-VN{
   from {
     width: 0%;
   }
